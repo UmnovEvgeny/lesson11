@@ -1,0 +1,65 @@
+[
+  {
+    "pk": 1,
+    "name": "Adela Hendricks",
+    "picture": "https://i.ucrazy.ru/files/i/2010.11.9/1289239709_70.jpg",
+    "position": "Go разработчик",
+    "gender": "female",
+    "age": 40,
+    "skills": "go, python"
+  },
+  {
+    "pk": 2,
+    "name": "Sheri Torres",
+    "picture": "https://basik.ru/images/big_wild_cats/086_big_wild_cats.jpg",
+    "position": "Delphi developer",
+    "gender": "female",
+    "age": 26,
+    "skills": "Delphi, pascal, fortran, basic"
+  },
+  {
+    "pk": 3,
+    "name": "Burt Stein",
+    "picture": "https://avatars.mds.yandex.net/i?id=d8fd5aca0beabb9aacb85820fa4a0994-5227433-images-thumbs&n=13",
+    "position": "Team lead",
+    "gender": "male",
+    "age": 33,
+    "skills": "делегирование, пользоваться календарем, обсуждать важные вопросы"
+  },
+  {
+    "pk": 4,
+    "name": "Bauer Adkins",
+    "picture": "https://avatars.mds.yandex.net/i?id=e30b7faa6eca58b0518036016fa605ee-5585005-images-thumbs&n=13",
+    "position": "CTO",
+    "gender": "male",
+    "age": 37,
+    "skills": "very important face"
+  },
+  {
+    "pk": 5,
+    "name": "Day Holloway",
+    "picture": "https://avatars.mds.yandex.net/i?id=ea72093050afeca1ab087d2874ab74bf-5340669-images-thumbs&n=13",
+    "position": "HR manager",
+    "gender": "male",
+    "age": 35,
+    "skills": "LinkedIn, telegram, spam, spam, spam"
+  },
+  {
+    "pk": 6,
+    "name": "Austin Cochran",
+    "picture": "https://avatars.mds.yandex.net/i?id=5cd5f879ad214d5c1fbd1c913d8d1c52-4291590-images-thumbs&n=13",
+    "position": "python-develop",
+    "gender": "male",
+    "age": 26,
+    "skills": "python, html"
+  },
+  {
+    "pk": 7,
+    "name": "Sheree Love",
+    "picture": "https://avatars.mds.yandex.net/i?id=0a142e5ed8839173deedc4bdbf31da87-4593651-images-thumbs&n=13",
+    "position": "Django developer",
+    "gender": "female",
+    "age": 33,
+    "skills": "Python, Django, flask"
+  }
+]

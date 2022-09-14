@@ -1,0 +1,6 @@
+<h1>Найдено со скиллом "{{skill_name}}": {{len_candidates}}</h1>
+{% for skill in list_candidates %}
+    <p><a href="/candidates/{{skill['pk']}}">{{skill['name']}}</a></p>
+{% endfor %}
+
+
